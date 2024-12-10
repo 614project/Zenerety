@@ -48,6 +48,7 @@
     <Folder Include="zenerety\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="zenerety\Box.py" />
     <Content Include="zenerety\Display.py" />
     <Content Include="zenerety\dll\SDL2.dll" />

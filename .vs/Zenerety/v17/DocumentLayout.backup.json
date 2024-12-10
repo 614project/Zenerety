@@ -190,11 +190,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
@@ -204,7 +204,7 @@
               "RelativeDocumentMoniker": "zenerety\\Music.py",
               "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Music.py",
               "RelativeToolTip": "zenerety\\Music.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-12-02T06:35:29.258Z",
               "EditorCaption": ""
@@ -219,8 +219,7 @@
               "RelativeToolTip": "zenerety\\__init__.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-12-02T06:32:10.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:32:10.47Z"
             },
             {
               "$type": "Document",
@@ -232,8 +231,7 @@
               "RelativeToolTip": "zenerety\\Scale2D.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-12-02T06:28:37.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:28:37.61Z"
             },
             {
               "$type": "Document",
@@ -245,8 +243,7 @@
               "RelativeToolTip": "main.pyw",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-01T16:17:49.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T16:17:49.381Z"
             },
             {
               "$type": "Document",
@@ -258,8 +255,7 @@
               "RelativeToolTip": "scenes\\__init__.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-12-01T16:18:14.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T16:18:14.961Z"
             },
             {
               "$type": "Document",
@@ -271,8 +267,7 @@
               "RelativeToolTip": "zenerety\\MouseKey.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-12-01T15:41:37.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:41:37.608Z"
             },
             {
               "$type": "Document",
@@ -284,8 +279,7 @@
               "RelativeToolTip": "zenerety\\TextBox.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-12-01T15:31:12.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:31:12.799Z"
             },
             {
               "$type": "Document",
@@ -297,8 +291,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-01T14:18:58.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T14:18:58.973Z"
             },
             {
               "$type": "Document",
@@ -310,8 +303,7 @@
               "RelativeToolTip": "zenerety\\Sprite.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-12-01T00:00:28.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T00:00:28.918Z"
             },
             {
               "$type": "Document",
@@ -323,8 +315,7 @@
               "RelativeToolTip": "zenerety\\Input.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T22:34:17.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:34:17.779Z"
             },
             {
               "$type": "Document",
@@ -336,8 +327,7 @@
               "RelativeToolTip": "scenes\\myScene.py",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T22:23:21.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:23:21.864Z"
             },
             {
               "$type": "Document",
@@ -349,8 +339,7 @@
               "RelativeToolTip": "zenerety\\Keycode.py",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T22:16:15.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:16:15.284Z"
             },
             {
               "$type": "Document",
@@ -362,8 +351,7 @@
               "RelativeToolTip": "zenerety\\Box.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T22:03:48.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T22:03:48.296Z"
             },
             {
               "$type": "Document",
@@ -375,8 +363,7 @@
               "RelativeToolTip": "zenerety\\BaseObject.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T18:16:09.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:16:09.558Z"
             },
             {
               "$type": "Document",
@@ -388,8 +375,7 @@
               "RelativeToolTip": "zenerety\\ObjectList.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:43:49.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:43:49.233Z"
             },
             {
               "$type": "Document",
@@ -401,8 +387,7 @@
               "RelativeToolTip": "zenerety\\Scene.py",
               "ViewState": "AgIAACkAAAAAAAAAAAAywD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:38:43.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:38:43.997Z"
             },
             {
               "$type": "Document",
@@ -414,8 +399,7 @@
               "RelativeToolTip": "zenerety\\Texture.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:37:34.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:37:34.866Z"
             },
             {
               "$type": "Document",
@@ -427,8 +411,7 @@
               "RelativeToolTip": "zenerety\\DrawableObject.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:37:09.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:37:09.947Z"
             },
             {
               "$type": "Document",
@@ -440,8 +423,7 @@
               "RelativeToolTip": "zenerety\\Color.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:36:22.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:36:22.409Z"
             },
             {
               "$type": "Document",
@@ -453,8 +435,7 @@
               "RelativeToolTip": "zenerety\\Display.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:35:53.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:35:53.217Z"
             },
             {
               "$type": "Document",
@@ -466,8 +447,7 @@
               "RelativeToolTip": "zenerety\\Window.py",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T17:34:29.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:34:29.652Z"
             },
             {
               "$type": "Document",
@@ -479,8 +459,7 @@
               "RelativeToolTip": "zenerety\\Framework.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T16:58:38.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T16:58:38.707Z"
             },
             {
               "$type": "Document",
@@ -492,8 +471,7 @@
               "RelativeToolTip": "setup.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-11-30T16:56:35.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T16:56:35.513Z"
             }
           ]
         },
@@ -509,7 +487,7 @@
               "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
               "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:36:25.556Z",
               "EditorCaption": ""
@@ -524,8 +502,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\PlayableSound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:35:52.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T06:35:52.251Z"
             },
             {
               "$type": "Document",
@@ -537,8 +514,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\Texture.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:59:27.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:59:27.371Z"
             },
             {
               "$type": "Document",
@@ -550,8 +526,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Text.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:26:26.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:26:26.623Z"
             },
             {
               "$type": "Document",
@@ -563,8 +538,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Font.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:24:52.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:24:52.724Z"
             },
             {
               "$type": "Document",
@@ -576,8 +550,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\TextBox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:21:43.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:21:43.905Z"
             },
             {
               "$type": "Document",
@@ -589,8 +562,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\Box.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:20:15.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:20:15.97Z"
             },
             {
               "$type": "Document",
@@ -602,8 +574,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\FrameworkFunction.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAywLMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:06:13.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:06:13.14Z"
             },
             {
               "$type": "Document",
@@ -615,8 +586,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\EventList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:05:43.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:05:43.898Z"
             },
             {
               "$type": "Document",
@@ -628,8 +598,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Image.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:58:58.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T14:58:58.982Z"
             },
             {
               "$type": "Document",
@@ -641,8 +610,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\JyunrcaeaFramework.cs",
               "ViewState": "AgIAAO4FAAAAAAAAAAAgwAsGAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:52:29.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T16:52:29.472Z"
             },
             {
               "$type": "Document",
@@ -654,8 +622,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\TextTexture.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:59:29.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:59:29.959Z"
             },
             {
               "$type": "Document",
@@ -667,8 +634,7 @@
               "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Texture.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:57:07.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:57:07.887Z"
             },
             {
               "$type": "Document",
@@ -680,8 +646,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\Sprite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:33:28.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:33:28.754Z"
             },
             {
               "$type": "Document",
@@ -693,8 +658,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\Zenerety.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T23:01:36.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T23:01:36.497Z"
             },
             {
               "$type": "Document",
@@ -706,8 +670,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (2).tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-30T20:45:23.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:45:23.754Z"
             },
             {
               "$type": "Document",
@@ -719,8 +682,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup.tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-30T20:45:20.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:45:20.498Z"
             },
             {
               "$type": "Document",
@@ -732,8 +694,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (1).tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-30T20:45:18.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:45:18.125Z"
             },
             {
               "$type": "Document",
@@ -745,8 +706,7 @@
               "RelativeToolTip": "..\\ZeneretyEngine\\Scene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:46:54.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:46:54.844Z"
             }
           ]
         }

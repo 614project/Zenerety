@@ -1,0 +1,7 @@
+﻿.vs/
+
+__pycache__/
+
+scenes/__pycache__/
+
+desktop.ini
