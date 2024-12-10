@@ -1,0 +1,716 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Zenerety\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Music.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Music.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\playablesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\jyunrcaeaframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Framework.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Framework.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\DrawableObject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\DrawableObject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Scale2D.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Scale2D.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Window.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Window.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\main.pyw||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:main.pyw||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\texttexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\scenes\\myScene.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:scenes\\myScene.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Sprite.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Sprite.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\zenerety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Box.py||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Box.py||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\MouseKey.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\MouseKey.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\BaseObject.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\BaseObject.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Texture.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Texture.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\scenes\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:scenes\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\TextBox.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\TextBox.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\setup.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:setup.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Input.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Input.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Scene.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Scene.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\ObjectList.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\ObjectList.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\frameworkfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\eventlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75013E2C-E0D0-D8E3-2B60-51626AFC41DF}|..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Jyunrcaea! Framework.csproj|d:\\documents\\jyunrcaeaframework\\jyunrcaea! framework\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Keycode.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Keycode.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\zeneretyengine.csproj.backup (2).tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Display.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Display.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|D:\\Documents\\Zenerety\\zenerety\\Color.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E648BD34-4B7F-43B0-AFFA-AC46D645A6A0}|Zenerety.pyproj|solutionrelative:zenerety\\Color.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\zeneretyengine.csproj.backup (1).tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE6E35-E8F3-4F97-9DFD-AD14B6F94940}|..\\ZeneretyEngine\\ZeneretyEngine.csproj|d:\\documents\\zeneretyengine\\zeneretyengine.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{b1ce3aef-c78d-49ee-b72b-ec1fbc908313}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Music.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Music.py",
+              "RelativeDocumentMoniker": "zenerety\\Music.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Music.py",
+              "RelativeToolTip": "zenerety\\Music.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T06:35:29.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "__init__.py (zenerety)",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\__init__.py",
+              "RelativeDocumentMoniker": "zenerety\\__init__.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\__init__.py",
+              "RelativeToolTip": "zenerety\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T06:32:10.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scale2D.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Scale2D.py",
+              "RelativeDocumentMoniker": "zenerety\\Scale2D.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Scale2D.py",
+              "RelativeToolTip": "zenerety\\Scale2D.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-02T06:28:37.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.pyw",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\main.pyw",
+              "RelativeDocumentMoniker": "main.pyw",
+              "ToolTip": "D:\\Documents\\Zenerety\\main.pyw",
+              "RelativeToolTip": "main.pyw",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-01T16:17:49.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "__init__.py (scenes)",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\scenes\\__init__.py",
+              "RelativeDocumentMoniker": "scenes\\__init__.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\scenes\\__init__.py",
+              "RelativeToolTip": "scenes\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-01T16:18:14.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MouseKey.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\MouseKey.py",
+              "RelativeDocumentMoniker": "zenerety\\MouseKey.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\MouseKey.py",
+              "RelativeToolTip": "zenerety\\MouseKey.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-01T15:41:37.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TextBox.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\TextBox.py",
+              "RelativeDocumentMoniker": "zenerety\\TextBox.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\TextBox.py",
+              "RelativeToolTip": "zenerety\\TextBox.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-01T15:31:12.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\.gitignore",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\.gitignore",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\.gitignore",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-01T14:18:58.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sprite.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Sprite.py",
+              "RelativeDocumentMoniker": "zenerety\\Sprite.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Sprite.py",
+              "RelativeToolTip": "zenerety\\Sprite.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-01T00:00:28.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Input.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Input.py",
+              "RelativeDocumentMoniker": "zenerety\\Input.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Input.py",
+              "RelativeToolTip": "zenerety\\Input.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T22:34:17.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "myScene.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\scenes\\myScene.py",
+              "RelativeDocumentMoniker": "scenes\\myScene.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\scenes\\myScene.py",
+              "RelativeToolTip": "scenes\\myScene.py",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T22:23:21.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Keycode.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Keycode.py",
+              "RelativeDocumentMoniker": "zenerety\\Keycode.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Keycode.py",
+              "RelativeToolTip": "zenerety\\Keycode.py",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T22:16:15.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Box.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Box.py",
+              "RelativeDocumentMoniker": "zenerety\\Box.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Box.py",
+              "RelativeToolTip": "zenerety\\Box.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T22:03:48.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseObject.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\BaseObject.py",
+              "RelativeDocumentMoniker": "zenerety\\BaseObject.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\BaseObject.py",
+              "RelativeToolTip": "zenerety\\BaseObject.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T18:16:09.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ObjectList.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\ObjectList.py",
+              "RelativeDocumentMoniker": "zenerety\\ObjectList.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\ObjectList.py",
+              "RelativeToolTip": "zenerety\\ObjectList.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:43:49.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Scene.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Scene.py",
+              "RelativeDocumentMoniker": "zenerety\\Scene.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Scene.py",
+              "RelativeToolTip": "zenerety\\Scene.py",
+              "ViewState": "AgIAACkAAAAAAAAAAAAywD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:38:43.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Texture.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Texture.py",
+              "RelativeDocumentMoniker": "zenerety\\Texture.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Texture.py",
+              "RelativeToolTip": "zenerety\\Texture.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:37:34.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawableObject.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\DrawableObject.py",
+              "RelativeDocumentMoniker": "zenerety\\DrawableObject.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\DrawableObject.py",
+              "RelativeToolTip": "zenerety\\DrawableObject.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:37:09.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Color.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Color.py",
+              "RelativeDocumentMoniker": "zenerety\\Color.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Color.py",
+              "RelativeToolTip": "zenerety\\Color.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:36:22.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Display.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Display.py",
+              "RelativeDocumentMoniker": "zenerety\\Display.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Display.py",
+              "RelativeToolTip": "zenerety\\Display.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:35:53.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Window.py",
+              "RelativeDocumentMoniker": "zenerety\\Window.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Window.py",
+              "RelativeToolTip": "zenerety\\Window.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T17:34:29.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Framework.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\zenerety\\Framework.py",
+              "RelativeDocumentMoniker": "zenerety\\Framework.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\zenerety\\Framework.py",
+              "RelativeToolTip": "zenerety\\Framework.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T16:58:38.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "setup.py",
+              "DocumentMoniker": "D:\\Documents\\Zenerety\\setup.py",
+              "RelativeDocumentMoniker": "setup.py",
+              "ToolTip": "D:\\Documents\\Zenerety\\setup.py",
+              "RelativeToolTip": "setup.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-30T16:56:35.513Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Music.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:36:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayableSound.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\PlayableSound.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\PlayableSound.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\PlayableSound.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\PlayableSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:35:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\Texture.cs",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\Texture.cs",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\Texture.cs",
+              "RelativeToolTip": "..\\ZeneretyEngine\\Texture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:59:27.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Text.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Text.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Text.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Text.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Text.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:26:26.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Font.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Font.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Font.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Font.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Font.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:24:52.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TextBox.cs",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\TextBox.cs",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\TextBox.cs",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\TextBox.cs",
+              "RelativeToolTip": "..\\ZeneretyEngine\\TextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:21:43.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\Box.cs",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\Box.cs",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\Box.cs",
+              "RelativeToolTip": "..\\ZeneretyEngine\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:20:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrameworkFunction.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\FrameworkFunction.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\FrameworkFunction.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\FrameworkFunction.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\FrameworkFunction.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAywLMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:06:13.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventList.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\EventList.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\EventList.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\EventList.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\EventList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:05:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Image.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Image.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Image.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:58:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JyunrcaeaFramework.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\JyunrcaeaFramework.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\JyunrcaeaFramework.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\JyunrcaeaFramework.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\JyunrcaeaFramework.cs",
+              "ViewState": "AgIAAO4FAAAAAAAAAAAgwAsGAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:52:29.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextTexture.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\TextTexture.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\TextTexture.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\TextTexture.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\TextTexture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:59:29.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Texture.cs",
+              "RelativeDocumentMoniker": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Texture.cs",
+              "ToolTip": "D:\\Documents\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Texture.cs",
+              "RelativeToolTip": "..\\JyunrcaeaFramework\\Jyunrcaea! Framework\\Texture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:57:07.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\Sprite.cs",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\Sprite.cs",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\Sprite.cs",
+              "RelativeToolTip": "..\\ZeneretyEngine\\Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:33:28.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Zenerety.cs",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\Zenerety.cs",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\Zenerety.cs",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\Zenerety.cs",
+              "RelativeToolTip": "..\\ZeneretyEngine\\Zenerety.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T23:01:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ZeneretyEngine.csproj.Backup (2).tmp",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (2).tmp",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (2).tmp",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (2).tmp",
+              "RelativeToolTip": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (2).tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T20:45:23.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ZeneretyEngine.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup.tmp",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup.tmp",
+              "RelativeToolTip": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T20:45:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ZeneretyEngine.csproj.Backup (1).tmp",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (1).tmp",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (1).tmp",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (1).tmp",
+              "RelativeToolTip": "..\\ZeneretyEngine\\ZeneretyEngine.csproj.Backup (1).tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T20:45:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\Documents\\ZeneretyEngine\\Scene.cs",
+              "RelativeDocumentMoniker": "..\\ZeneretyEngine\\Scene.cs",
+              "ToolTip": "D:\\Documents\\ZeneretyEngine\\Scene.cs",
+              "RelativeToolTip": "..\\ZeneretyEngine\\Scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:46:54.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
